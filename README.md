@@ -8,4 +8,5 @@ Spell ID: 10060 (PI)
     account set gmlevel tester 3 -1
     account set addon tester 2
 
-https://imgur.com/a/6GWMLbF
+
+Скриншоты: https://imgur.com/a/6GWMLbF
